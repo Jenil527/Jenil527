@@ -39,8 +39,8 @@
 <p align="center">
 
 <a href = "https://www.linkedin.com/in/jenil-patel-75634626b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "(https://github.com/Jenil527)"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
-<a href = "(https://mail.google.com/mail/?view=cm&fs=1&to=pjenil60@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail-new.png"/></a>
+<a href = "https://github.com/Jenil527"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
+<a href = "https://mail.google.com/mail/?view=cmfs=1to=pjenil60@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail-new.png"/></a>
 <a href = "https://portfolio-ggru.vercel.app/"><img src="https://img.icons8.com/color/48/000000/link.png"/></a>
 
 </p>
