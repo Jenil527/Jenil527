@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Jenil !!</h1>
 
-<div align="center">,
+<div align="center">
   <img height="200" 
   src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/RonaldJosephCote/phpLZRobc.gif" 
 </div>
