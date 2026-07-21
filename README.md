@@ -61,7 +61,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jenil527&show_icons=true&locale=en" alt="Jenil527" /></p> -->
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jenil527&" alt="Jenil527" /></p>-->
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Jenil527&theme=highcontrast&hide_border=true&border_radius=4.8&card_width=494" alt="Jenil527" /></a>
+<a href="https://git.io/streak-stats"><img src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jenil527&theme=dark&hide_border=true&card_width=494)](https://git.io/streak-stats)" alt="Jenil527" /></a>
 
 <!--
 **Jenil527/Jenil527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
