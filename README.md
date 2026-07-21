@@ -1,7 +1,3 @@
-<!--## Hi there 👋
-
-  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa25pYmhxbmNoaG1zdWIzeXM3bDJmazU5anA3dXo3emc5MWlmeXI5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W4XD3p911EoG4/giphy.gif" />-->
-
 <h1 align="center">Hi 👋, I'm Jenil !!</h1>
 
 <div align="center">
@@ -13,13 +9,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jenil527&label=Profile%20views&color=0e75b6&style=flat" alt="Jenil527" /> </p>
 
-<!-- - 🔭 I’m currently working on [VenturesBoard](https://venturesboard.vercel.app/) -->
+
 
  🌱 I’m currently learning **Data Structures and Algorithms, C++ programming language and System Design.**
 
  👨‍💻 All of my projects are available at [Jenil's projects](https://github.com/Jenil527/)
 
-<!-- - 📝 I regularly write articles on [https://medium.com/@sunnnyyy](https://medium.com/@sunnnyyy) -->
+
 
  💬 Ask me about **Computer Science, CSS & C++, DSA, frontend performance, and building real-world projects from scratch.**
 
@@ -61,8 +57,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jenil527&show_icons=true&locale=en" alt="Jenil527" /></p> -->
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jenil527&" alt="Jenil527" /></p>-->
-<a href="https://git.io/streak-stats"><img src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jenil527&theme=dark&hide_border=true&card_width=494)](https://git.io/streak-stats)" alt="Jenil527" /></a>
-
+ <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Jenil527's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Jenil527&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>-->
+ 
+  <!--<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Jenil527's Top Languages" src="https://Jenil52-github-readme-stats.vercel.app/api/top-langs/?username=Jenil527&langs_count=8&layout=compact&theme=dark&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>-->
 <!--
 **Jenil527/Jenil527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
